@@ -1,10 +1,10 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class RectangleArea {
+public class ClassRoom {
     public static void main(String[] args){
-        Scanner scanner = new Scanner(System.in);
 
+        Scanner scanner = new Scanner(System.in);
         double x1 = Double.parseDouble(scanner.nextLine());
         double y1 = Double.parseDouble(scanner.nextLine());
         double x2 = Double.parseDouble(scanner.nextLine());
